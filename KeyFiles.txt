@@ -1,0 +1,50 @@
+HI! This is a test file.
+This file may seem useless to you.
+But it can be of great use for someone else.
+xoxp-3443000973392-3412597818102-3416381915397-085825dc300bdb59c25ab6936a1718bb
+Wondering what the above string means?
+My program will tell you what exactly it is
+xoxo-3443000973392-3412597818102-3416381915397-085825dc300bdb59c25ab6936a1718bb
+Are these two strings same?
+Let the program decide that too!
+These are some AWS credentails
+aws_access_key_id = AKIAYVP4CIPROLZTG54N
+aws_secret_access_key = 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
+Let's see if the program can flag these too!
+
+
+
+[default/tampered]
+aws_access_key_id = AKIAYVP4CIPPIUKHC
+aws_secret_access_key = 3Y6NoCxmwgj0uC0ork2b4/CPZsVmJZ5c1pes67nj
+output = json
+region = us-east-2
+
+[default]
+aAYVP4CIPPKANH7Cws_access_key_id = AKIHQ
+aws_secret_access_key = MqTjmKHSmoN0ZyKgebirkTmlHMJcJ+/hGTu//nm3
+output = json
+region = us-east-2
+
+
+[default]
+aws_accessAOfPrvFQEpYXQutiVjvT3PtmrpWPnY3AkJ6r+Sr
+output = json_key_id = AKIAYVP4CIPPLQTY5LE4
+aws_secret_access_key = J
+region = us-east-2
+
+
+Slack tokens
+xoxp-3443000973392-3412597818102-3416381915397-085825dc300bdb59c25ab6936a1718bb
+
+Slack Tokens
+xoxp-3443000973392-3412597818102-3419301174611-8bd6b07e74db775fcbd68313857580b9
+
+Github access tokens
+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
+
+Github access tokens
+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
+
+Knowingly creating a false github token here:
+ghr_jfdskljfjsvjfslkdjlffsfdslfvddslfdfd
